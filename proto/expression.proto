@@ -134,6 +134,8 @@ enum ScalarFuncSig {
 	CastJsonAsDuration = 65;
 	CastJsonAsJson = 66;
 
+	CastYearAsString = 67;
+
 	/*compare*/
 	CoalesceInt = 4201;
 	CoalesceReal = 4202;
